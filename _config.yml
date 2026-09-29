@@ -1,0 +1,37 @@
+lang: fr
+title: Présentation
+description: Portfolio Emrick PETIT
+theme: bulma-clean-theme
+
+url: https://github.com/gorinje/craft-the-cv2
+
+force_theme: light
+permalink: pretty
+lang: fr
+theme_color: '#188EAC' 
+fixed_navbar: top
+show_logo: true
+
+collections:
+  products: 
+    output: true
+    layout: product
+    image: https://portofolios-amiens.github.io/portfolio-Titep01/assets/imgs/coming_soon.png
+    show_sidebar: false
+
+plugins:
+  - jekyll-remote-include
+  
+exclude:
+  - node_modules/
+  - vendor/
+  - .bundle/
+  - .jekyll-cache/
+  - .devcontainer/
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+
+sass:
+  style: compressed
