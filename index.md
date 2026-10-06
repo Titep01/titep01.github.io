@@ -13,7 +13,7 @@ robots: noindex
 
 Etudiant en 2ème année de prépa-intégrée cycle ingénieur à Unilasalle-Amiens
 
-Je suis à la recherche d'un contrat d'apprentissage pour une alternance à partir de septembre 2027
+A la recherche d'un contrat d'apprentissage en alternance alternance à partir de septembre 2027
 
 #### Contacts :
 

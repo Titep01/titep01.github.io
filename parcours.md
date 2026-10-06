@@ -16,13 +16,14 @@ robots: noindex
 
 
 
-Étudiant 1ère année en formation pré-ingénieur en numérique et énergie
+Étudiant 2ème année en formation pré-ingénieur en numérique et énergie
 
 _Cours clés :_
 * Électronique : Modélisation et création de cartes électroniques (Logiciel KiCad, Soudure)
-* Informatique : Développement en Python, C et Markdown (et introduction à HTML)
-* Prototypage et conception : Modélisation 3D et conception mécanique (Voir [Projets-Réalisation](https://portofolios-amiens.github.io/portfolio-Titep01/realisations/))
-
+* Informatique : Développement en C, Markdown et HTML
+* Prototypage et conception : Modélisation 3D (Onshape), impression 3D, découpe laser...  
+(Voir [Projets-Réalisation](https://titep01.github.io/realisations/))
+* Gestion de projet et Documentation (Création de sites de suivi)
 
 
 

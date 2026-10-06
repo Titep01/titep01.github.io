@@ -1,8 +1,11 @@
 source "https://rubygems.org"
-gem "bulma-clean-theme",  '1.0.3'
+
+ruby "~> 3.3.0"
+
+gem "bulma-clean-theme", "1.0.3"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
 group :jekyll_plugins do
     gem "jekyll-linkpreview"
