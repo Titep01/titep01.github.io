@@ -3,6 +3,8 @@ title: Présentation
 description: Portfolio Emrick PETIT
 theme: bulma-clean-theme
 
+favicon_ico: assets/imgs/Logo.ico
+
 url: https://github.com/gorinje/craft-the-cv2
 
 force_theme: light
@@ -17,7 +19,7 @@ collections:
     output: true
     layout: product
     image: https://portofolios-amiens.github.io/portfolio-Titep01/assets/imgs/coming_soon.png
-    show_sidebar: false
+    show_sidebar: true
 
 plugins:
   - jekyll-remote-include

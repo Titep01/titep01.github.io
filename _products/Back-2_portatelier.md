@@ -10,4 +10,6 @@ En prévision de la participation d'Unimaker à la coupe de France de robotique 
 
 Ce projet est toujours en cours, et vous pourrez suivre son développement tout au long de l'année jusqu'à sa conclusion définitive à l'issue de la coupe (je l'espère).
 
-En suivant [ce lien](https://titep01.github.io/projet-portatelier/), vous trouverez le site de documentation, basé sur le template Just The Docs ([https://just-the-docs.com](https://just-the-docs.com)) modifié pour une standardisation des projets par les responsables du Makerspace d'UnilaSalle-Amiens ([Site du makerspace](https://doc.makerspace-amiens.fr)).
+Sur [les site de documentation du projet portatelier](https://titep01.github.io/projet-portatelier/), vous trouverez les informations sur l'avancement du projet.
+
+Ce site basé sur le template Just The Docs ([https://just-the-docs.com](https://just-the-docs.com)) modifié pour une standardisation des projets par les responsables du Makerspace d'UnilaSalle-Amiens ([Site du makerspace](https://makerspace-amiens.fr)).

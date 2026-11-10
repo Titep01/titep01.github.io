@@ -1,5 +1,5 @@
 ---
-title: Coupe de France de Robotique
+title: Coupe de Robotique 2026
 subtitle: "Winter is coming"
 description: Contenu de la page "Projet Robotique"
 layout: product

@@ -3,7 +3,7 @@ layout: promo-page
 title: Présentation
 description: Page de présentation
 menubar: menu_bar
-hero_image: assets/imgs/Image profil.jpeg
+hero_image: assets/imgs/img_profil.jpg
 hero_image_alt: Image profil
 hero_image_ratio: is-1by1
 robots: noindex

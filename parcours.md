@@ -44,18 +44,6 @@ _Spécialités - Option :_
 
 ## Expériences
 
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>Coupe de France de Robotique - "Winter is coming"</strong></span>
-  <span><code style="color: blue;">2026</code></span>
-</div>
-
-
-_Réalisé dans le cadre de l'association Unimakers_
-
-* Modélisation 2D / 3D et Prototypage (Onshape, fabrication additive et découpe laser)
-* Conception électronique (KiCad)
-* Programmation orientée objet (C++, utilisation de Github et VSCode pour des projets coopératifs)
-
 
 <div style="display: flex; justify-content: space-between;">
   <span><strong>IDEMIA - Dijon, Domaine de la sécurité bancaire</strong></span>
@@ -73,8 +61,20 @@ _Réalisé dans le cadre de l'association Unimakers_
 
 
 <div style="display: flex; justify-content: space-between;">
+  <span><strong>Coupe de Robotique - Édition 2026 et 2027</strong></span>
+  <span><code style="color: blue;">2026 - Actuel</code></span>
+</div>
+
+_Réalisé dans le cadre de l'association Unimakers_
+
+* Responsable Développement Durable et Responsabilité Sociétale (DD&RS)
+* Modélisation 2D / 3D et Prototypage (Onshape, fabrication additive et découpe laser)
+* Conception électronique (KiCad)
+* Programmation orientée objet (C++, utilisation de Github et VSCode pour des projets coopératifs)
+
+<div style="display: flex; justify-content: space-between;">
   <span><strong>Membre du bureau restreint de l'association d'airsoft UniSoft</strong></span>
-  <span><code style="color: blue;">2026</code></span>
+  <span><code style="color: blue;">2026 - Actuel</code></span>
 </div>
 
 
