@@ -2,10 +2,10 @@
 title: Projet Conception
 subtitle: Portatelier
 layout: product
-image: https://portofolios-amiens.github.io/portfolio-Titep01/assets/imgs/coming_soon.png
+image: https://titep01.github.io\assets\imgs\coming_soon.png
 robots: noindex 
 ---
-
+![alt text]()
 En prévision de la participation d'Unimaker à la coupe de France de robotique 2027 "La légende de Kaamelot". Je souhaitais créer un système modulaire pour le transport du robot et du matériel à la coupe. Le but étant d'avoir une ou plusieurs boites roulants, complètement configurables afin de garder l'espace de travail propre et organisé (ce qui manquait l'année précédente)
 
 Ce projet est toujours en cours, et vous pourrez suivre son développement tout au long de l'année jusqu'à sa conclusion définitive à l'issue de la coupe (je l'espère).

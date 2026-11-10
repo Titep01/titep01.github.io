@@ -3,7 +3,7 @@ title: Coupe de Robotique 2026
 subtitle: "Winter is coming"
 description: Contenu de la page "Projet Robotique"
 layout: product
-image : https://portofolios-amiens.github.io/portfolio-Titep01/assets/imgs/logo-cdr.jpeg
+image : https://titep01.github.io\assets\imgs\logo-cdr.jpeg
 robots: noindex
 ---
 
